@@ -1,0 +1,8 @@
+{
+  "name": "uptime-bot",
+  "version": "1.0.0",
+  "main": "ping.js",
+  "scripts": {
+    "start": "node ping.js"
+  }
+}
