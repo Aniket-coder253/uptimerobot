@@ -9,7 +9,7 @@ const MONITORS = [
   { name: "GreenHand", url: "https://greenhand-pr391.onrender.com" },
   { name: "Ecommerce", url: "https://mern-stack-e-commerce-i8zk.onrender.com" },
   { name: "Aniket Portfolio Chatbot", url: "https://aniket-chatbot-api.onrender.com"},
-  { name: "GreenHand_ML", url: "https://greenhand-ml-api.onrender.com"},
+  //{ name: "GreenHand_ML", url: "https://greenhand-ml-api.onrender.com"},
   // Add as many URLs as you want:
   // { name: "Google",       url: "https://google.com" },
 ];
